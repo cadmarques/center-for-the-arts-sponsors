@@ -61,6 +61,15 @@ h1, h2, h3 { font-family: 'Playfair Display', serif; }
   display: flex; align-items: center; justify-content: center;
   font-size: 32px;
 }
+.logo-img {
+  width: 90px;
+  height: 90px;
+  /*border-radius: 50%;           /* se logo  for redondo */
+  object-fit: contain;          /* Garante que a imagem não fica distorcida */
+  border: 3px solid rgba(255,255,255,0.4);
+  background: rgba(255,255,255,0.15);
+  display: block;
+}
 .logo-text {
   font-size: 1.8rem;
   font-weight: 700;

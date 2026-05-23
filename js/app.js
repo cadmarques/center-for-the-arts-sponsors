@@ -81,7 +81,7 @@ function createCard(sponsor) {
       <div class="card-name">${sponsor.name}</div>
       <div class="card-desc">${sponsor.description}</div>
       <div class="card-keywords">${keywordsHTML}</div>
-      <span class="card-link">Ver detalhes →</span>
+      <span class="card-link">Details →</span>
     </div>
   `;
 
