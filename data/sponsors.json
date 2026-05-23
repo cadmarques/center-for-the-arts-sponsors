@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "name": "The Waterstone Group",
+    "type": "vip",
+    "description": "Welcome to Waterstone Village, your destination for relaxation, entertainment, and community. ",
+    "keywords": ["Shopping Village", "Bread & Bresakfast", "Rentals", "Arts", "Culture"],
+    "image": "assets/images/sponsors/waterstone.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Waterstone/186/86/25",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jilla Lamar",
+    "type": "vip",
+    "description": "Jilla Lamar is an \"art afficionada\", colector and patron of the arts in SL for many years.",
+    "keywords": ["patron"],
+    "image": "assets/images/sponsors/JillaLamar.jpg",
+    "links": {
+      "slurl": "",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "//DRUM",
+    "type": "regular",
+    "description": "Digital Designs for Second Life Homes.",
+    "keywords": ["Digital Art", "Decoration"],
+    "image": "assets/images/sponsors/DRUM.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Waterstone/23/39/24",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 4,
+    "name": "Salmagundi",
+    "type": "regular",
+    "description": "High quaility lifelike statues/characters with low land impact and much more.",
+    "keywords": ["Mesh Statues", "Mesh Characters", "Decoration"],
+    "image": "assets/images/sponsors/Salmagundi.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Polong/84/100/1651",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 5,
+    "name": "JFL",
+    "type": "regular",
+    "description": "All original creations, Hats and more.",
+    "keywords": ["Hats", "Facial hair", "Hair bases for EvoX"],
+    "image": "assets/images/sponsors/jfl.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Mirr/83/67/57",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 6,
+    "name": "Blackwolf Custom Motorbikes",
+    "type": "regular",
+    "description": "Custom motorbikes.",
+    "keywords": ["Custom Motorbikes", "Ready for sale Motorbikes"],
+    "image": "blackwolf.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Orchid%20Moon/82/147/993",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 7,
+    "name": "The WoolShed",
+    "type": "regular",
+    "description": "An Aussie club where you can come together for great live music, fun times and a place to hang out with friends",
+    "keywords": ["Aussie Club", "Live Music", "Fishing", "Game Tables", "Bull Ride"],
+    "image": "assets/images/sponsors/WoolShed.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Orchid%20Moon/82/147/993",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 8,
+    "name": "Los Monica",
+    "type": "regular",
+    "description": "A box of surprises sim, with a high grade Hotel, streetviews, Comedy Club, amusement park and mcuh more.",
+    "keywords": ["Comedy Club", "Scenic", "Amusement Park", "Hotel"],
+    "image": "assets/images/sponsors/LosMonica.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/los%20monica/182/191/37",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 9,
+    "name": "AI Creative Avatar Photography",
+    "type": "regular",
+    "description": "Specialized AI Photography Services",
+    "keywords": ["Profile Photo", "AI Photography"],
+    "image": "assets/images/sponsors/AICreative.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Thames%20Isle/205/32/24",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 10,
+    "name": "Travel & Adventure",
+    "type": "regular",
+    "description": "The Travel & Adventure group provides you with access to the best FREE travel and tourism opportunities in Second Life.",
+    "keywords": ["Travel", "Photography", "Vehicles", "Exploration"],
+    "image": "assets/images/sponsors/T&Adeventure.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Nautilus%20-%20Adherbal/180/140/114",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 11,
+    "name": "Artisan Eden",
+    "type": "regular",
+    "description": "Home and full sim Landscaping, Original Custom Builds, Collaborative Design.",
+    "keywords": ["Landscaping", "Garden Decoration", "Custom Builds", "Store", "Custom Service"],
+    "image": "assets/images/sponsors/T&Adeventure.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Eternal%20Falls/18/22/22",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 12,
+    "name": "Basilique",
+    "type": "regular",
+    "description": "Small northern Italian Village, an island and community located on Lake Garda, the largest lake in Italy. ",
+    "keywords": ["Basilica", "Scenic", "Rentals", "Waterfront Piers", "Art Gallery", "Live music", "Cafes"],
+    "image": "assets/images/sponsors/Basilique.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Basilique/155/88/3511",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 13,
+    "name": "SL Events Connect",
+    "type": "regular",
+    "description": "Events Promotion",
+    "keywords": ["Custom Event Posters", "SL Events Listing", "Facebook Evvent Creation & Group Sharing", "Group Notices & IMs bot triggered", "Friendly Event Hosting"],
+    "image": "assets/images/sponsors/SLEventsConnect.jpg",
+    "links": {
+      "slurl": "",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+  {
+    "id": 14,
+    "name": "The Kondor Art Center",
+    "type": "regular",
+    "description": "Art & Culture Hub",
+    "keywords": ["Museum", "Art Exhibtions", "Art/Music events", "Waterfront Piers", "Art Gallery", "Live music", "Cafes"],
+    "image": "assets/images/sponsors/KondorArtCenter.jpg",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Royal%20Tea/159/54/401",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+    {
+    "id": 15,
+    "name": "Divalicious Designs",
+    "type": "regular",
+    "description": "Fashion for Ladies & Gents",
+    "keywords": ["Ladies Fashion", "Men Fashion"],
+    "image": "assets/images/sponsors/Divalicious.jpg",
+    "links": {
+      "slurl": "",
+      "slmap": "",
+      "marketplace": "https://marketplace.secondlife.com/stores/138721",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  }
+
+]
