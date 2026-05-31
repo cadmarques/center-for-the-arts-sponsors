@@ -20,7 +20,7 @@
     "id": 2,
     "name": "Jilla Lamar",
     "type": "vip",
-    "description": "Jilla Lamar is an \"art afficionada\", colector and patron of the arts in SL for many years.",
+    "description": "Jilla Lamar is an \"art afficionada\", collector and patron of the arts in SL for many years.",
     "keywords": ["patron"],
     "image": "assets/images/sponsors/jllalamar.png",
     "links": {
@@ -239,6 +239,23 @@
   },
     {
     "id": 15,
+    "name": "Kinetics",
+    "type": "regular",
+    "description": "Kinetics Dance is a diverse and innovative collective of choreographers and performers",
+    "keywords": ["Dance", "Performing Art"],
+    "image": "assets/images/sponsors/kinetics.png",
+    "links": {
+      "slurl": "http://maps.secondlife.com/secondlife/Fantasies%20Island/85/60/1001",
+      "slmap": "",
+      "marketplace": "",
+      "facebook": "",
+      "flickr": "",
+      "primfeed": "",
+      "website": ""
+    }
+  },
+    {
+    "id": 16,
     "name": "Divalicious Designs",
     "type": "regular",
     "description": "Fashion for Ladies & Gents",
